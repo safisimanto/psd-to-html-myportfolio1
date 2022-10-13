@@ -1,0 +1,162 @@
+body {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: large !important;
+
+
+}
+
+
+
+
+#menu {
+    background-color: aqua !important;
+}
+
+main .one {
+    width: 100%;
+    min-height: 600px;
+    background-image: url("img/Background-.jpg");
+    background-size: cover;
+}
+
+main .one h1 {
+    font-size: 70px;
+    color: #002D5B;
+}
+
+.one .col-md-6 {
+    padding-top: 4%;
+    padding-left: 6%;
+}
+
+.one .hello {
+    padding-top: 10%;
+    padding-left: 6%;
+}
+
+
+
+.one .col-md-6 img {
+    width: 100%;
+    height: 500px;
+}
+
+main .two {
+    width: 100%;
+    min-height: 450px;
+    padding-top: 7%;
+    padding-left: 6%;
+    padding-bottom: 4%;
+}
+
+main .two h3 {
+    font-size: 40px;
+}
+
+
+
+
+main .three {
+    width: 100%;
+    min-height: 400px;
+    padding-top: 7%;
+    padding-left: 6%;
+    padding-bottom: 4%;
+    background-color: #E1E5E8;
+}
+
+main .three h2 {
+    font-size: 55px;
+}
+
+main .three h4 {
+    color: #002D5B;
+}
+
+
+main .three .row .fa {
+    padding: 5% ;
+    background-color:#db7d78;
+    margin-top: 3%;
+    border-radius: 50%;
+}
+
+main .three .row .col-md-4 {
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+main .three .row .col-md-4 
+.card .icon .fa:hover{
+    color: #FFFAFC;
+}
+
+main .three .row .col-md-4 
+.card:hover{
+    background-color: #EC5B53;
+}
+
+
+main .three .row img {
+    border-radius: 50%;
+}
+
+
+main .five {
+    width: 100%;
+    min-height: 400px;
+    background-color: #FEF8F8;
+    padding-top: 10%;
+    padding-left: 8%;
+}
+
+main .five .col-md-4 {
+    padding-top: 5%;
+}
+
+main .five h2 {
+    font-size: 55px;
+    color: #EC5B53;
+}
+
+
+
+main .six {
+    width: 100%;
+    min-height: 400px;
+    padding-top: 7%;
+    padding-bottom: 4%;
+    text-align: center;
+}
+
+main .six h2 {
+    font-size: 55px;
+}
+
+
+main .saven {
+    width: 100%;
+    min-height: 400px;
+    padding-top: 7%;
+    padding-left: 6%;
+    padding-bottom: 4%;
+    background-color: #FFFAFC;
+}
+
+main .saven h2 {
+    font-size: 52px;
+}
+
+
+footer {
+    width: 100%;
+    min-height: 500px;
+    text-align: center;
+    background-color: #080827;
+    color: #FFFAFC;
+}
+
+footer a {
+    font-size: 45px;
+    color: #FFFAFC;
+}
